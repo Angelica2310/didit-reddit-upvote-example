@@ -46,3 +46,8 @@ The project is a work in progress and is not yet complete.
 - [ ] User following
 - [ ] User feed (posts from users you follow)
 - [ ] User flair
+
+## Assignment reflection
+- I have successfully deploy this to Vercel.
+- I have achieved one of the stretch goals which is to create the page titles on the post pages that match the post title.
+- I am trying to handle the error so when users click to vote while not logged in to show a nice error message using Toastify library. I have created a NotifyMessage component then import this into the Vote component, but for some reasons it doesn't work. I will look further into this and perhaps other stretch goals.
